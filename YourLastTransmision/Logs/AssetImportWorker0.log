@@ -1,0 +1,401 @@
+Unity Editor version:    6000.3.29f1 (96d2fe17529c)
+Branch:                  6000.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Date:                    2026-11-23T14:55:06Z
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/2a3d/Desktop/MarHorta/YourLastTransmision
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49313
+-parentPid
+2483
+-analyticsCloudUserId
+anonymous
+-analyticsLocalProjectId
+8bb251163f1ea4c48ab01cc8e380bd70
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+ec2822f9dc33a6d5086be75c3b427a13248566b3
+-cbmMachineId
+IU2JGRzz/xhvir/fi39HmqYnbYE=
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name AssetImport
+Successfully changed project path to: /Users/2a3d/Desktop/MarHorta/YourLastTransmision
+/Users/2a3d/Desktop/MarHorta/YourLastTransmision
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8327929472]  Target information:
+
+Player connection [8327929472]  * "[IP] 172.22.1.141 [Port] 0 [Flags] 2 [Guid] 2108822755 [EditorId] 2108822755 [Version] 1048832 [Id] OSXEditor(0,ha201-62.av.itb.cat) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8327929472] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8327929472] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 8.84 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.29f1 (96d2fe17529c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/2a3d/Desktop/MarHorta/YourLastTransmision/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M3 (high power)
+Metal devices available: 1
+0: Apple M3 (high power)
+Using device Apple M3 (high power)
+Initializing Metal device caps: Apple M3
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56127
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+[Licensing::Module] Connecting to the Unity Licensing Client...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-2a3d" at "2026-11-23T14:55:07.579376Z"
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              d0fa22c5df394d05907a986327946b29
+  Correlation Id:          0a454b982c65b4904313b870ba2028a2
+  External correlation Id: 2108122554672180385
+  Machine Id:              IU2JGRzz/xhvir/fi39HmqYnbYE=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-2a3d" (connect: 0.00s, validation: 0.00s, handshake: 0.15s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-2a3d-notifications" at "2026-11-23T14:55:07.72927Z"
+[Licensing::Module] The re-connection attempt was successful.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 6872783440004-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: /Applications/Unity/Hub/Editor/6000.3.29f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.152861 seconds.
+- Loaded All Assemblies, in  0.466 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.228 seconds
+Domain Reload Profiling: 695ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (178ms)
+	LoadAllAssembliesAndSetupDomain (116ms)
+		LoadAssemblies (139ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (113ms)
+			TypeCache.Refresh (112ms)
+				TypeCache.ScanAssembly (101ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (228ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (198ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (73ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[CoreBusinessMetrics] Unexpected thread when updating session info.
+[CoreBusinessMetrics] Unexpected thread when updating session info.
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.456 seconds
+Refreshing native plugins compatible for Editor in 1.77 ms, found 10 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+Refresh completed but there are assets queued up for importing. Check for code that modifies assets which gets called after OnPostProcessAllAssets. Additional details in Log file
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+Assets queued for import after Refresh completed:
+	Assets/XR/Settings/OpenXRPackageSettings.asset
+Asset Pipeline Refresh (id=c0b6cfb5849cb4e68a56865dd2e703a9): Total: 0.008 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Assertion failed on expression: 'm_Ptr'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+Refresh completed but there are assets queued up for importing. Check for code that modifies assets which gets called after OnPostProcessAllAssets. Additional details in Log file
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+Assets queued for import after Refresh completed:
+	Assets/XR/Settings/OpenXRPackageSettings.asset
+Asset Pipeline Refresh (id=3165b076fbe2d4d04b2e4d8c30eb5c07): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Assertion failed on expression: 'm_Ptr'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEditor.GUID)
+UnityEditor.AssetDatabase:SaveAssetIfDirty (UnityEngine.Object) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:586)
+UnityEditor.XR.OpenXR.Features.FeatureHelpersInternal:GetAllFeatureInfo (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:323)
+UnityEditor.XR.OpenXR.Features.FeatureHelpers:RefreshFeatures (UnityEditor.BuildTargetGroup) (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs:30)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:AddOpenXRValidationRules () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:148)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:UpdateOpenXRProjectValidation () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:67)
+UnityEditor.XR.OpenXR.OpenXRProjectValidationRulesSetup:OpenXRProjectValidationCheck () (at ./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/OpenXRProjectValidationRulesSetup.cs:43)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:153)
+
+[./Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Editor/FeatureSupport/FeatureHelpers.cs line 323]
+
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.967 seconds
+Domain Reload Profiling: 1422ms
+	BeginReloadAssembly (70ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (12ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (339ms)
+		LoadAssemblies (231ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (143ms)
+			TypeCache.Refresh (107ms)
+				TypeCache.ScanAssembly (91ms)
+			BuildScriptInfoCaches (29ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (967ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (866ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (438ms)
+			ProcessInitializeOnLoadMethodAttributes (285ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launching external process: /Applications/Unity/Hub/Editor/6000.3.29f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+Refreshing native plugins compatible for Editor in 2.10 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Error
+Unloading 6251 unused Assets / (8.2 MB). Loaded Objects now: 7173.
+Memory consumption went from 462.5 MB to 454.3 MB.
+Total: 40.526500 ms (FindLiveObjects: 2.817375 ms CreateObjectMapping: 0.346833 ms MarkObjects: 30.345875 ms  DeleteObjects: 7.015625 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2249.946535 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(b6d8050cecbe75e4c8b3445d5ccd33ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(b6d8050cecbe75e4c8b3445d5ccd33ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55361a38e95839524c8edf08ae30bb6b') in 0.02686025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
